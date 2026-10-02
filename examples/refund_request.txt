@@ -1,0 +1,15 @@
+Subject: Full refund request for order DEMO1001
+
+Hello Refund Support,
+
+I am requesting a full refund for order DEMO1001, placed on September 24, 2026.
+The order contains 8 items and the order total was INR 16,152.80. One of the
+items arrived damaged and cannot be used. Please review the order details and,
+if it qualifies under your refund policy, refund the full order amount to the
+original payment method.
+
+Please let me know if you need photographs or any additional information.
+
+Regards,
+Example Customer
+customer@example.com
