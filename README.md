@@ -6,6 +6,10 @@ and routes eligible cases for human approval. LangGraph manages the workflow;
 SQLite stores conversation checkpoints; Milvus provides optional long-term
 vector retrieval.
 
+For a complete execution walkthrough, Java-to-Python explanations, and
+class-by-class coverage of LangGraph, SQLite, Groq, and Milvus, see the
+[Refund Flow Guide](docs/REFUND_FLOW_GUIDE.md).
+
 ## Requirements
 
 - macOS or Linux
